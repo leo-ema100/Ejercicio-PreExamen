@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1758384876154" clover="3.2.0">
+  <project timestamp="1758384876154" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="9" coveredelements="9" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
+    <file name="validarAprobacion.ts" path="C:\Users\Ema\Desktop\ejercicio_preexamen\src\domain\validarAprobacion.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="7" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
