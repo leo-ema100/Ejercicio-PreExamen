@@ -1,4 +1,4 @@
-#El enunciado, clases de equivalencia y tabla de decision se encuentra en la carpeta Doc
+# El enunciado, clases de equivalencia y tabla de decision se encuentra en la carpeta Doc
 ## Guía de Configuración para Proyecto con Vite, TypeScript y Jest
 
 Esta guía detalla los pasos para configurar un proyecto con Vite, TypeScript y Jest, incluyendo la instalación de dependencias, configuración de archivos y scripts para pruebas.
